@@ -6,21 +6,25 @@
   url: "/about/"
   side: left
   dropdown:
-  - title: "About"
+  - title: "leaveit2me"
     url: "/about/"
-  - title: "Staff"
+  - title: "Other Staff"
     url: "/staff/"
+  - title: "Scoring System"
+    url: "/scoring/"
 
-- title: Events
-  url: "/events/"
+- title: Pages
+  url: "/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
+  - title: "J-Music from A to Z"
+    url: "/music/"
+  - title: "Manga/Light Novel Wishlist"
+    url: "/wishlist/"
+  - title: "Anime Challenge!"
+    url: "/challenge/"
+  - title: "It Take Two to Tango: A Hanazawa Eiji Mystery"
+    url: "/tango/"
 
 - title: "Contact"
   url: "/contact/"
