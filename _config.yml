@@ -4,7 +4,7 @@ email: popculturemecha@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is an awesome blog. Move along.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "popculturemecha.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: popculturemecha
 github_username:  popculturemecha
 
