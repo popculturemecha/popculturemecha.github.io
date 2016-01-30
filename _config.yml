@@ -15,7 +15,7 @@ permalink: /:categories/:title/
 
 include: ['_pages']
 
-
+excerpt_separator: '<!-- more -->'
 
 slogan: "A Flexible Theme for Jekyll"
 
